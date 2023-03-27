@@ -1,4 +1,4 @@
-# Mooc AII
+# CasoPracticoIndividual
 
 Repositorio del proyecto del módulo 6 del curso mooc: Herramientas software para la realización de
 proyectos de AI aplicados a la investigación.
@@ -20,3 +20,5 @@ Pasos para realizar el proyecto:
 7 – Añadir nuevos ficheros y cambios (scripts modificados, dockerfile...) al repositorio local (commit) y subir la nueva rama creada al repositorio en Gitlab (push). 
 
 8 – Realizar una pequeña memoria (no más de una página) con los pasos realizados y subirla a la tarea del módulo 6 habilitada para tal efecto.
+
+Las imágenes se encuentran en: https://www.kaggle.com/competitions/dogs-vs-cats/data
